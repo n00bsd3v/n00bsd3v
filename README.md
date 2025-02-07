@@ -1,4 +1,4 @@
-## Hi there 👋 I am Noobsdev
+## I am Noobsdev
 ## Software Engineer from KONOHA62
 
 
